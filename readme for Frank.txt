@@ -47,3 +47,8 @@ Testing:
 	b. filter by column (startsWith pattern)
 	c. click notes button to view the notes of the pet
 	d. click owner button to view the owner of the pet. 
+	***********************************************************************
+Final project estimate
+1. Pagination to the tables. 120 Minutes 
+2. Owner Navigation for Admin. 120 Minutes 
+3. Add Jasmine testing 300 Minutes
